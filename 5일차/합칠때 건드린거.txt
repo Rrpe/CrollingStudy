@@ -1,0 +1,17 @@
+종억이형꺼랑 제꺼랑 합칠때 건드린거
+net.kakao.action에
+GoodsAddAction
+GoodsDeleteAction
+GoodsListAction
+GoodsModifyAction
+제걸로 변경 및 추가했고
+
+GoodsFrontController_Action
+에 제꺼인 FrontController안에 add,delete,list,modify 추가만 해놨음.
+
+net.kakao.db에
+GoodsBean이랑
+GoodsDAO에 추가만 함. 
+
+그리고 의석이꺼 넣다가 코드가 좀 달라서 건드리다가 잘못넣으면 깨질거같아서 일단 다 삭제해놨어요.
+넣을때 이름좀 맞춰서 넣어주세요.
